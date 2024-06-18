@@ -6,4 +6,4 @@ Switchbotの機能に関するスクリプト = チームメンバー1
 
 Vuetify FrameWorkの導入によるUI作成 = チームメンバー3
 
-その他機能の追加, 機能や各ファイルの結合, UIの調整 = (自分)[https://github.com/Eztas]
+その他機能の追加, 機能や各ファイルの結合, UIの調整 = [自分](https://github.com/Eztas)
